@@ -72,7 +72,7 @@ namespace NorthWind.Repositories.EFCore.DataContext
             modelBuilder.Entity<Product>()
                 .HasData(new Product { Id=1,Name="chai"},
                 new Product { Id = 2, Name = "Chang" },
-                new Product { Id=2,Name="Anisee Syrup "});
+                new Product { Id=3,Name="Anisee Syrup "});
 
             modelBuilder.Entity<Customer>()
                 .HasData(new Customer { Id = "ALFKI", Name = "Alfreds F." },

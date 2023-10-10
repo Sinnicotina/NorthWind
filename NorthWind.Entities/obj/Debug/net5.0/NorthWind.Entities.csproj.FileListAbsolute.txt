@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\NorthWind\NorthWind.Entities\bin\Debug\net5.0\NorthWind.Entities.deps.json
+C:\Users\admin\source\repos\NorthWind\NorthWind.Entities\bin\Debug\net5.0\NorthWind.Entities.dll
+C:\Users\admin\source\repos\NorthWind\NorthWind.Entities\bin\Debug\net5.0\NorthWind.Entities.pdb
+C:\Users\admin\source\repos\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.AssemblyInfo.cs
+C:\Users\admin\source\repos\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.dll
+C:\Users\admin\source\repos\NorthWind\NorthWind.Entities\obj\Debug\net5.0\refint\NorthWind.Entities.dll
+C:\Users\admin\source\repos\NorthWind\NorthWind.Entities\obj\Debug\net5.0\NorthWind.Entities.pdb
+C:\Users\admin\source\repos\NorthWind\NorthWind.Entities\obj\Debug\net5.0\ref\NorthWind.Entities.dll

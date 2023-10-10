@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "C+mR06lZZhFUBFlXFB15YlDUTD8sPBVPxXCWbQukZW9P4qBMqQPDZzk9Of/Nh6bOuI/5Q8ir0wIHGuNo8bqVlg==",
+  "dgSpecHash": "rd0z8fdJuSOSHxS2xk5tnTTZx/N86KZQmjVujnhA56fQ8fgNLEAf1YpnJCcpYBl1LEYeu1aEe2KcUt1KoWbnKw==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\source\\repos\\NorthWind\\NorthWind.Repositories.EFCore\\NorthWind.Repositories.EFCore.csproj",
   "expectedPackageFiles": [
@@ -100,10 +100,7 @@
     "C:\\Users\\admin\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\admin\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

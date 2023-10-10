@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Design;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +13,11 @@ namespace NorthWind.Repositories.EFCore.DataContext
     {
         public NorthWindContext CreateDbContext(string[] args)
         {
-            throw new NotImplementedException();
+            var OptionBuilder =
+                new DbContextOptionsBuilder<NorthWindContext>();
+            OptionBuilder.UseSqlServer(
+                "Server=(localdb)\\mssqllocaldb;database=NorthWindDB");
+              return new NorthWindContext(OptionBuilder.Options);
         }
     }
 }
