@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.AssemblyInfo.cs
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.csproj.CoreCompileInputs.cache

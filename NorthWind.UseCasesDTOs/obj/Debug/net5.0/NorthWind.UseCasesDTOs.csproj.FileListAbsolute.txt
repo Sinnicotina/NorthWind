@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\NorthWind\NorthWind.UseCasesDTOs\bin\Debug\net5.0\NorthWind.UseCasesDTOs.deps.json
+C:\Users\admin\source\repos\NorthWind\NorthWind.UseCasesDTOs\bin\Debug\net5.0\NorthWind.UseCasesDTOs.dll
+C:\Users\admin\source\repos\NorthWind\NorthWind.UseCasesDTOs\bin\Debug\net5.0\NorthWind.UseCasesDTOs.pdb
+C:\Users\admin\source\repos\NorthWind\NorthWind.UseCasesDTOs\obj\Debug\net5.0\NorthWind.UseCasesDTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\NorthWind\NorthWind.UseCasesDTOs\obj\Debug\net5.0\NorthWind.UseCasesDTOs.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\NorthWind\NorthWind.UseCasesDTOs\obj\Debug\net5.0\NorthWind.UseCasesDTOs.AssemblyInfo.cs
+C:\Users\admin\source\repos\NorthWind\NorthWind.UseCasesDTOs\obj\Debug\net5.0\NorthWind.UseCasesDTOs.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\NorthWind\NorthWind.UseCasesDTOs\obj\Debug\net5.0\NorthWind.UseCasesDTOs.dll
+C:\Users\admin\source\repos\NorthWind\NorthWind.UseCasesDTOs\obj\Debug\net5.0\refint\NorthWind.UseCasesDTOs.dll
+C:\Users\admin\source\repos\NorthWind\NorthWind.UseCasesDTOs\obj\Debug\net5.0\NorthWind.UseCasesDTOs.pdb
+C:\Users\admin\source\repos\NorthWind\NorthWind.UseCasesDTOs\obj\Debug\net5.0\ref\NorthWind.UseCasesDTOs.dll
