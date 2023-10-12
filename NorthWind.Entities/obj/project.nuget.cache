@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZFjc5RQHTBTb5VAb+b6lp1K7CtzEod0Xevf9o8ATs1iOdr6K1ebNxC9Xt3zvFhS+kAd5v3qfS0/DV5xsjSU6FA==",
+  "dgSpecHash": "AjwvrXRJ51vZvkhWBO7znq/WjARfzpFI9XxPrec0s7tbyaxb3cRU3OO1qRkxdUk40JWthjORjtwm0Iz5ea7Xpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\source\\repos\\NorthWind\\NorthWind.Entities\\NorthWind.Entities.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

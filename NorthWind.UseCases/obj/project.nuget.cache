@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3iYNO6VosLmJWr4hGkJMmZXOxRrDAORKjO3N317SPxNpEL8IXhjeZcrxMSvjb32+sYona0mrrAWH+5uxEJd/MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\NorthWind\\NorthWind.UseCases\\NorthWind.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
