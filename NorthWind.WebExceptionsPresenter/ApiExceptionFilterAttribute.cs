@@ -19,6 +19,8 @@ namespace NorthWind.WebExceptionsPresenter
             exceptionHandlers)=>ExceptionHandlers
             =exceptionHandlers;
 
+      
+
         public override void OnException(ExceptionContext context)
         {
             Type ExceptionType= context.Exception.GetType();

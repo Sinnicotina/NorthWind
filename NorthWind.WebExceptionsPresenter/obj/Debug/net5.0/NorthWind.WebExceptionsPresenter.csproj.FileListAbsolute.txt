@@ -3,3 +3,17 @@ C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug
 C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.AssemblyInfoInputs.cache
 C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.AssemblyInfo.cs
 C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\NorthWind.WebExceptionsPresenter.deps.json
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\NorthWind.WebExceptionsPresenter.dll
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\NorthWind.WebExceptionsPresenter.pdb
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\NorthWind.Entities.dll
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\NorthWind.UseCases.dll
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\NorthWind.UseCasesDTOs.dll
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\NorthWind.UseCases.pdb
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\NorthWind.Entities.pdb
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\bin\Debug\net5.0\NorthWind.UseCasesDTOs.pdb
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.csproj.CopyComplete
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.dll
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\refint\NorthWind.WebExceptionsPresenter.dll
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\NorthWind.WebExceptionsPresenter.pdb
+C:\Users\admin\source\repos\NorthWind\NorthWind.WebExceptionsPresenter\obj\Debug\net5.0\ref\NorthWind.WebExceptionsPresenter.dll
